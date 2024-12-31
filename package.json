@@ -1,0 +1,17 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "description": "building third project i.e idea app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IdeaApp"
+  ],
+  "author": "aniruddhanemade05@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
